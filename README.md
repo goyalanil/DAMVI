@@ -6,8 +6,8 @@ Implementation for Weighted Majority Vote Algorithm DAMVI for Imbalanced Dataset
 Related Paper:
 ```
 Anil Goyal and Jihed Khiari. 
-"Diversity-Aware Weighted Majority Vote Classifier
-for Imbalanced Data", The International Joint Conference on Neural Networks (IJCNN), 2020.
+"Diversity-Aware Weighted Majority Vote Classifier for Imbalanced Data", 
+The International Joint Conference on Neural Networks (IJCNN), 2020.
 ```
 
 
