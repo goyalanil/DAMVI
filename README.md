@@ -13,7 +13,7 @@ The International Joint Conference on Neural Networks (IJCNN), 2020.
 
 ## Dependencies
 
-This Python code depends on numpy and scipy librairies
+This Python code depends on numpy, scipy and imbalanced-learn librairies
 
 
 ## Usage example
